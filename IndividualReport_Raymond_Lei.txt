@@ -1,0 +1,11 @@
+/**
+Raymond Lei
+Group 8
+
+Individual Report：
+
+I created the overall prototype based on our previous work draft. 
+Then listened to the group's feedback to make changes, additions, 
+and deletions in the UI.
+
+**/
